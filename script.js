@@ -34,7 +34,7 @@ cPwd.style.borderColor = 'green';
 
 else {
 pwdMatch = false;
-message.textContent = 'Make sure password match';
+message.textContent = 'Make sure password matches';
 message.style.color = 'red';
 messageContainer.style.borderColor = 'red';
 pwd.style.borderColor = 'red';
